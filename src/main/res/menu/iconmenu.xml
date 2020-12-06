@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+  <item android:id="@+id/menu_buy"
+      android:icon="@drawable/buy"
+      android:iconTint="@color/colorPrimary"
+      android:title="Buy"/>
+  <item android:id="@+id/menu_sell"
+      android:icon="@drawable/sell"
+      android:iconTint="@color/colorPrimary"
+      android:title="Sell"/>
+
+
+
+  <item android:id="@+id/menu_logout"
+      android:icon="@drawable/log"
+      android:iconTint="@color/colorPrimary"
+      android:title="Logout"/>
+
+</menu>
